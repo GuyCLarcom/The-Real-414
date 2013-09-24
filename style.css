@@ -92,6 +92,7 @@ a.superbutton{
 	text-align: center;
 	color: #B25950;
 	font-size: 25px;
+	text-decoration: none;
 }
 
 .superbutton:hover {
